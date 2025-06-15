@@ -70,7 +70,7 @@ ip addr show | grep "inet "
 
 ### Using the API
 
-Once you have your LAN IP, you can use the API from any device on your network by replacing `<Your LAN IP>` in the example code:
+Once you have your Host LAN IP, you can use the API from any device on your network by replacing `<Your LAN IP>` in the example code:
 
 ```python
 import requests, json
